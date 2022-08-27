@@ -5,7 +5,7 @@
 
 
 void print_my_name(void){
-    printf("My name is Sameera\n");
+    printf("My name is Sameera Saeid\n");
 
     return;
 }
