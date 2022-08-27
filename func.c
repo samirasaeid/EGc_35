@@ -12,3 +12,6 @@ void print_my_name(void){
 void print_my_age(void){
     printf("My age is 24\n");
 }
+void printf_my_collage(void){
+    printf("My collage is HTI \n");
+}
