@@ -9,3 +9,6 @@ void print_my_name(void){
 
     return;
 }
+void print_my_age(void){
+    printf("My age is 24\n");
+}
