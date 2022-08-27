@@ -6,5 +6,6 @@
     
     void print_my_age(void);
     void printf_my_collage(void);
+    void print_my_faculty(void);
 
 #endif
